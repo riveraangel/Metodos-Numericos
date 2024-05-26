@@ -6,6 +6,9 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 
 ## TEMA 2: Métodos de Solución de Ecuaciones
 
+- [Método de Bisección](./Tema%202/Metodo%20de%20Biseccion.md)
+- [Método de Falsa Posición](./Tema2/Metodo-Falsa-Posicion.md)
+
 ## TEMA 3: Métodos de Solución de Sistemas de Ecuaciones
 
 ## TEMA 4: Diferenciación e Integración Numérica

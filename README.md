@@ -16,7 +16,7 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 - [Método de Eliminación Gaussiana](./Tema%203/Método%20de%20Eliminación%20Gaussiana.md)
 - [Método de Gauss Jordan](./Tema%203/Método%20de%20Gauss-Jordan.md)
 - [Método de Gauss-Seidel](./Tema%203/Método%20de%20Gauss-Seidel.md)
-- [Método de Newton-Raphson](./Tema%203/Método%20de%20Jacobi.md)
+- [Método de Jacobi](./Tema%203/Método%20de%20Jacobi.md)
 
 ## TEMA 4: Diferenciación e Integración Numérica
 

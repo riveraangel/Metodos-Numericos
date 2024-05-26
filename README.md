@@ -7,7 +7,9 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 ## TEMA 2: Métodos de Solución de Ecuaciones
 
 - [Método de Bisección](./Tema%202/Método%20de%20Bisección.md)
-- [Método de Falsa Posición](./Tema2/Metodo-Falsa-Posicion.md)
+- [Método de Falsa Posición](./Tema%202/Método%20Falsa%20Posición.md)
+- [Método de la Secante](./Tema%202/Método%20Secante.md)
+- [Método de Newton-Raphson](./Tema%202/Método%20de%20Newton-Raphson.md)
 
 ## TEMA 3: Métodos de Solución de Sistemas de Ecuaciones
 

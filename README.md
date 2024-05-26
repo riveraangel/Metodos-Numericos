@@ -26,4 +26,7 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
+- [Método de Interpolación Lagrange](./Tema%205/Método%20de%20Interpolación%20Lagrange.md)
+- [Método de Interpolación Newton](./Tema%205/Método%20de%20Interpolación%20Newton.md)
+
 ## TEMA 6: Solución de Ecuaciones Diferenciales

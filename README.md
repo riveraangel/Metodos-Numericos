@@ -30,3 +30,6 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 - [Método de Interpolación Newton](./Tema%205/Método%20de%20Interpolación%20Newton.md)
 
 ## TEMA 6: Solución de Ecuaciones Diferenciales
+
+- [Método de un paso](./Tema%206/Método%20de%20un%20paso.md)
+- [Método de pasos múltiples](./Tema%206/Método%20de%20pasos%20múltiples.md)

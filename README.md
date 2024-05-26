@@ -20,6 +20,10 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 
 ## TEMA 4: Diferenciación e Integración Numérica
 
+- [Método de Simpson 1/3](./Tema%204/Método%20de%20Simpson%201-3.md)
+- [Método de Simpson 3/8](./Tema%204/Método%20de%20Simpson%203-8.md)
+- [Método del Trapecio](./Tema%204/Método%20del%20Trapecio.md)
+
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
 ## TEMA 6: Solución de Ecuaciones Diferenciales

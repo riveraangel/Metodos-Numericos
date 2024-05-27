@@ -1,6 +1,6 @@
 # Descripción
 
-
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/bfdc52ba-b8c9-43d3-9cb3-3dc26033cb41)
 
 # Algoritmo
 

@@ -1,11 +1,20 @@
 # Descripción
 
- 
+El método de eliminación Gauss-Jordan consiste en representar el sistema de ecuaciones por medio de una matriz y obtener a partir de ella lo que se define como la matriz escalonada equivalente, a través de la cual se determina el tipo de solución de la ecuación.
+
+Un tipo de matriz escalonada (también conocida como matriz de identidad, donde la diagonal principal tiene solamente uno y, en el resto de las posiciones, cero) se representa de la siguiente forma:
+
+![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/bafc2a1a-26ea-4468-bdfb-faa998d619f0)
 
 # Algoritmo
 
+![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/019b9e41-db20-4c04-a181-3b9497f4fcf6)
 
 
+![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/fb228c5a-04a7-4b06-a002-310034230569)
+
+
+![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/f0c24a02-20e9-43d7-85d4-7a747939fff0)
 
 # Implementación en Java
 

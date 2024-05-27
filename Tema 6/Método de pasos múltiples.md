@@ -2,6 +2,8 @@
 
 Un método en varios pasos o continuo, utiliza los valores de varios pasos calculados con anterioridad para obtener el valor de y n+1 Hay numerosas fórmulas aplicables en la aproximación de soluciones de ecuaciones diferenciales.
 
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/562801e0-6b0b-4d49-b60f-090aa366a641)
+
 # Algoritmo
 
 ![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/90e71c46-0e90-42bf-ab57-831732923f41)

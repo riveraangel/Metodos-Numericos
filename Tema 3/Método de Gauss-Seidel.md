@@ -16,8 +16,8 @@ El método de Gauss-Seidel es un método iterativo utilizado para resolver siste
 
 # Implementación en Java
 
-import java.util.Arrays;
-    import java.util.Scanner;
+    import java.util.Arrays;
+        import java.util.Scanner;
     
     public class Gauss_Seidel {
   

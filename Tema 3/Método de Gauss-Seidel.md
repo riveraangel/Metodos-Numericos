@@ -109,7 +109,7 @@ El anterior código se utilizó para darle solución a los siguiente ejercicios.
 
 ### Solución con código
 
-![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/973582f1-71cc-4ff0-bd94-e26b924cfd53)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/d11d2ebe-f4cd-4921-914b-bc25faf31cce)
 
 # Ejercicio 2
 
@@ -119,7 +119,7 @@ El anterior código se utilizó para darle solución a los siguiente ejercicios.
 
 ### Solución analítica
 
-![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/c351c1e4-7276-4599-9fe8-fbc55d30e66f)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/f536d225-28b2-49be-9c85-b609f443a896)
 
 ### Solución con código
 

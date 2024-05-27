@@ -10,6 +10,10 @@ Un método en varios pasos o continuo, utiliza los valores de varios pasos calcu
 ![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/921692b1-d600-4569-85a5-1e0833fd5df5)
 
 
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/3a5502f8-6546-401e-894a-ab3725e56143)
+
+
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/3364b3ed-f652-4f7e-a5ba-e9f2f59445c8)
 
 # Implementación en Java
 

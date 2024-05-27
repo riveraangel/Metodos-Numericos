@@ -7,11 +7,11 @@ El método de Gauss-Seidel es un método iterativo utilizado para resolver siste
 
 # Algoritmo
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/052616c3-d150-48fb-aa29-d3e6e9ab6232)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/d720dbcb-8fa0-4fbb-ba96-9ad3af71e423)
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/8e3dfff3-47ca-4b41-ac5a-fd8bf00c523e)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/02cd7984-00cc-4e9e-bbb3-3280774fb524)
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/acfac799-23c9-4e59-b402-25ca87dfb531)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/d127855c-9c54-474f-8621-f42d646c9b32)
 
 
 # Implementación en Java
@@ -101,26 +101,25 @@ El anterior código se utilizó para darle solución a los siguiente ejercicios.
 
 ### Problema
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/4cbd4f9e-ea75-46a0-b856-2d782a2f03b9)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/86d8fa0d-4fe0-446d-9131-db9dfbe2a20a)
 
 ### Solución analítica
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/57d7815d-9a87-47c4-b6ee-e4c6c28ecf6c)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/44549b85-5159-4adb-a91a-36b554a30a0a)
 
 ### Solución con código
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/c3b02a10-6941-4c22-903f-c3f4feb64d66)
-
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/973582f1-71cc-4ff0-bd94-e26b924cfd53)
 
 # Ejercicio 2
 
 ### Problema
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/d259828d-71dc-4fa6-979d-7a369f725f8d)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/c233c247-b78a-42f2-9ffa-5da3181d6582)
 
 ### Solución analítica
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/cb69809f-b11e-4ef0-8f7a-a65334711bce)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/c351c1e4-7276-4599-9fe8-fbc55d30e66f)
 
 ### Solución con código
 
@@ -131,29 +130,30 @@ El anterior código se utilizó para darle solución a los siguiente ejercicios.
 
 ### Problema
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/3b0a1a49-be6f-45f3-8f42-5a10d1ad0f60)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/5e7750ad-8621-4000-a730-6b47a42ba9ae)
 
 ### Solución analítica
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/d17a1ab8-5e0f-4388-a44d-b99ff59f8d7d)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/d4813f44-9535-4f9e-ad36-e6354294ede3)
 
 ### Solución con código
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/9e4de426-a38c-4c4e-a964-75be11fc3666)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/7e73d94f-ec38-438d-8c0e-5706e9cf7231)
 
 
 # Ejercicio 4
 
 ### Problema
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/5e7c688b-de43-4554-a4bf-b1272722a61c)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/edb0fb9c-fbea-4c15-b8e0-25d282fbcc28)
 
 ### Solución analítica
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/a52a125b-b3a7-44bd-86f8-16b3c6b3eee2)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/74eb8a05-f317-4050-bab5-4c49b14da217)
 
 ### Solución con código
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/ea410bbf-3e96-44e1-873d-8fa0ae765f1d)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/c40fef1b-bf71-43de-98c1-c61d75211da6)
+
 
 

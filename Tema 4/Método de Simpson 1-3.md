@@ -1,48 +1,66 @@
 # Descripción
 
-
-El método de Simpson 1/3 es otro método de integración numérica que aproxima el valor de una integral definida utilizando polinomios de segundo grado (parábolas) para aproximar la función integrada. 
-
+El método de Simpson 1/3 es otro método de integración numérica que aproxima el valor de una integral definida utilizando polinomios de segundo grado (parábolas) para aproximar la función integrada.
 Para el ejercicio planteado en la regla de trapecio, usando cuatro tramos, se aplica el método cada dos tramos.
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/d288ccc3-fe41-428f-b968-8f734290dabd)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/4bb75fb4-9d91-480e-9b45-cb3b5d80e30d)
 
 Tramos = 4
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/b6016f62-7b72-452f-aaeb-41251658d641)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/506b13b2-29f8-4b6e-ac77-9e90dfecdf2e)
 
 Note que al usar Simpson 1/3 con 4 tramos el resultado tiene los 2 primeros decimales iguales a usar Trapecio con 16 tramos.
 
-Resultado:
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/5c35fd97-8dcd-4881-838b-601208ed8586)
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/439fbe0e-4efd-42de-a61e-e97e17cdd733)
 
 # Algoritmo
 
 
 Es el resultado cuando se realiza una interpolación con polinomio de segundo grado.
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/cff5cb50-4e05-42e5-b2ab-b96bb43734d3)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/47bd0847-0adf-42e4-85e6-9f912a2bbed3)
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/e50a81a3-6162-4855-9ac3-2e90859f6e13)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/15428604-943a-4001-a08f-4297e281602c)
 
 Usando un polinomio de Lagrange de segundo grado:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/7ec24145-68be-47f3-9e2e-c1a9b9ba3ec4)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/5564596d-362a-4ab0-a245-4951e0a0ae2a)
 
 Que tiene como resultado para un solo tramo:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/27364eba-5879-49b4-a5a7-594a979d32f6)
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/2fd661b7-2142-47ea-bced-6effa7bec6c4)
+
 
 Siendo:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/c8410d6f-3d28-4fa2-a2cf-1f1e7c9c6100)
-
+![image](https://github.com/riveraangel/Metodos-Numericos/assets/161758059/bad4d30e-dec4-4f98-a8fb-d8716f3aafd3)
 
 
 # Implementación en Java
     
-
+       import sympy as sp
+    
+    # Definir la variable simbólica
+    x = sp.symbols('x')
+    
+    # Entrada de la función como texto
+    f_input = input('f(x)= ')
+    # Convertir la entrada de texto a una expresión de Sympy
+    g = sp.lambdify(x, sp.sympify(f_input), 'numpy')
+    
+    # Entrada de los límites de integración
+    a = float(input('Limite inferior: '))
+    b = float(input('Limite superior: '))
+    
+    # Cálculo del intervalo h
+    h = (b - a) / 3
+    
+    # Cálculo de la integral usando la regla de Simpson 3/8
+    I = (3 * h / 8) * (g(a) + 3 * g((2 * a + b) / 3) + 3 * g((a + 2 * b) / 3) + g(b))
+    
+    # Mostrar el resultado
+    print('Valor Aproximado de la Integral:', I)
 
 
 El anterior código se utilizó para darle solución a los siguiente ejercicios. 

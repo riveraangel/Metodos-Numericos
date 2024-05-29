@@ -33,3 +33,8 @@ Bienvenidos al repositorio de GitHub dedicado a la materia de Métodos Numérico
 
 - [Método de un paso](./Tema%206/Método%20de%20un%20paso.md)
 - [Método de pasos múltiples](./Tema%206/Método%20de%20pasos%20múltiples.md)
+
+
+
+### Equipo:
+Jorge de Jesús Romero López
